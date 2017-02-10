@@ -5,7 +5,7 @@ public class Chapter2Exercise {
 // Calculating the cost of driving
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print(" Enter the driving distance:");
+		System.out.print("Enter the driving distance:");
 		double distance = input.nextDouble();
 		
 		System.out.print("Enter miles per gallon:");
