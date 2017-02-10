@@ -9,7 +9,7 @@ public class Chapter2Exercise {
 		 Scanner input = new Scanner(System.in);
 		 
 		 
-		 //Promt the user to enter the subtotal and the gratuity rate
+		 //Prompt the user to enter the subtotal and the gratuity rate
 		 
 		  System.out.print("Enter subtotal and a gratuity rate:");
 		  
